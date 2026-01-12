@@ -1,0 +1,17 @@
+My initial Idea is a one piece world simulator that is a long term strategy and rpg game
+
+The systems that I need to work on
+1. Characters
+2. World Graph and Map
+3. Two Core Modes
+4. NPCs
+5. more maybe
+
+
+Links that I wanted to keep track of -
+https://www.python.org/doc/essays/graphs/
+https://www.w3schools.com/python/python_classes.asp
+https://www.w3schools.com/python/python_dictionaries.asp
+
+OP WIKI REFENCE LINK:
+https://thelibraryofohara.com/the-one-piece-timeline/
